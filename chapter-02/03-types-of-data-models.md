@@ -1,0 +1,4 @@
+- Three commonly used data models: 
+  - Hierarchical data model (https://en.wikipedia.org/wiki/Hierarchical_database_model, https://learnsql.com/blog/how-to-query-hierarchical-data)
+  - Network data model (https://en.wikipedia.org/wiki/Network_model, https://mariadb.com/kb/en/understanding-the-network-database-model)
+  - Relational data model (https://en.wikipedia.org/wiki/Relational_database)
