@@ -1,0 +1,11 @@
+- Data extraction operations fall into two categories 
+  - set operations:
+    - `union` (https://www.w3schools.com/sql/sql_union.asp, https://portswigger.net/web-security/sql-injection/union-attacks)
+    - `difference` (https://www.w3schools.com/sql/sql_distinct.asp, https://www.sqlteaching.com/#!distinct)
+    - `intersection` (https://www.w3schools.com/sql/sql_join_inner.asp, https://www.sqlteaching.com/#!joins)
+    - `Cartesian product operations` (https://www.w3resource.com/sql/joins/cross-join.php)
+  - relational operations:
+    - `projection` is an operation that extracts columns from a table (https://youtu.be/aeBg9ZV_CgI)
+    - `selection` operation extracts two rows from a table (https://youtu.be/Da7y7rAbOMs)
+    - `join` tables (https://www.w3schools.com/sql/sql_join.asp)
+    - `division` is an operation that extracts the rows whose column values match those in the second table, but only returns columns that don’t exist in the second table (https://youtu.be/WAYyJFM8v_k, https://learnsql.com/blog/sql-division-operator)
